@@ -2,8 +2,8 @@
 layout: cv
 title: Christian Lira's Resume
 ---
-# Christian Lira
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Christian Lira Gonzalez
+Data Analyst studying at Brigham Young University Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
