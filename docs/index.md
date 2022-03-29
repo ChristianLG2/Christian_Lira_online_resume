@@ -3,82 +3,102 @@ layout: cv
 title: Christian Lira's Resume
 ---
 # Christian Lira Gonzalez
-Data Analyst studying at Brigham Young University Idaho
+Data Analyst studying at Brigham Young University Idaho. Able to work in large groups, leadership experince, teacheable and adaptable to new enviroments. Experience with some programming languages and data manipulation.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="#">christian.lira.gl@gmail.com </a>
+| <a href="#">lir18001@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/christian-lira-6598341b9/">LinkedIn</a>
+| <a href="https://github.com/ChristianLG2">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2021 - Currently attending`
+__Brigham Young University Idaho__, Rexburg, ID.
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- Data Analayst 
+- Current GPA 2.8 GPA
 
 
-## Related Experience
+`Expected Graduation 2025`
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Work and Service History
 
 
-## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2016 - 2017`
+__Sales Representative and Coustumer Service__, Royal Prestige Mexico
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2018`
+__Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
+
+
+
+`2018-2020`
+__Church of Jesus Christ of Latter Day Saints Service Missionary__: Mexico Pachuca And Utah Orem Missions
+
+`2020`
+__English as Second Language Professor__, Centro de Ingles Personalizado (CIP) Mexico
+
+`2021-Active`
+__Early Morning Custodian__, Manwaring Center BYUI
+
+
+
+
+## Career Related Experience
+
+### Skills and Abilities
+
+
+__Communication__
+- Able to communicate directly and professionally to leaders and co-workers
+- Ability to write and respond to messages or calls in the appropiate way and time.
+
+__Leadership__:
+- Able to lead a team to complete projects succesfully meeting requirements
+- Able to motivate project members including myself to meet expectations 
+
+__Computer__
+- Recent experience with Python programming in Data manipulation with libraries such as Pandas / Altair / Numpy. 
+- Recent Experience with Data retrieval from Data Bases through Queries such as Mysql and nonSQL DataBase such as MongoDB
+
+__Languge__
+- Able to comunicate fluently in Spanish
+- other laguages (not as fluent): Chinese and German
+
+__Values__
+- Strong work values necesessary for an enjoyable workspace.
+
+### Personal Projects
+
+
+__Demographic Analisis__
+
+- Manipulated data and information based on concesus by INEGI in Mexico to conduct a demographic anslysis of Sexism in Mexico for a specific state during the last century.
+- Used some of the programming tools as Python and libraries within Altair/ Pandas / Numpy. As well the manipulation of the same data through Query languages and other data readers such as excel.
+
+
+
+## Interests
+
+__Politics and Social Sciences__
+
+- Currently coursing a minor in Political Sciences at BYUI.
+
+__Data Analysis and Manipulation__
+- I seek to keep growing my abilities and skills through personal projects
+
+__Language learning__
+
+- Fluent in English and Spanish, can comunicate in diferent levels in German and Chinese.
+- Currently coursing a cluster in Chinese at BYUI.
+
 
 
 
