@@ -78,7 +78,7 @@ __Values__
 ### Personal Projects
 
 
-__Demographic Analisis__
+__Demographic Analysis__
 
 - Manipulated data and information based on concesus by INEGI in Mexico to conduct a demographic anslysis of Sexism in Mexico for a specific state during the last century.
 - Used some of the programming tools as Python and libraries within Altair/ Pandas / Numpy. As well the manipulation of the same data through Query languages and other data readers such as excel.
