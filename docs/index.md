@@ -40,7 +40,7 @@ __Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
 
 
 `2018-2020`
-__Church of Jesus Christ of Latter Day Saints Service Missionary__: Mexico Pachuca And Utah Orem Missions
+__Church of Jesus Christ of Latter Day Saints Service Missionary__: Mexico Pachuca and Utah Orem Missions
 
 `2020`
 __English as Second Language Professor__, Centro de Ingles Personalizado (CIP) Mexico
@@ -73,7 +73,7 @@ __Languge__
 - other laguages (not as fluent): Chinese and German
 
 __Values__
-- Strong work values necesessary for an enjoyable workspace.
+- Strong work values necessary for an enjoyable workspace.
 
 ### Personal Projects
 
