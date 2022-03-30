@@ -21,7 +21,7 @@ Data Analyst studying at Brigham Young University Idaho. Able to work in large g
 __Brigham Young University Idaho__, Rexburg, ID.
 
 - Data Analayst 
-- Current GPA 2.8 GPA
+- Current GPA 3.1 GPA
 
 
 `Expected Graduation 2025`
