@@ -3,7 +3,7 @@ layout: cv
 title: Christian Lira's Resume
 ---
 # Christian Lira Gonzalez
-Data Analyst studying at Brigham Young University Idaho. Able to work in large groups, leadership experince, teacheable and adaptable to new enviroments. Experience with some programming languages and data manipulation.
+Business Analyst studying at Brigham Young University Idaho. Able to work in large groups, leadership experince, teacheable and adaptable to new enviroments. Experience with some programming languages and data manipulation.
 
 <div id="webaddress">
 <a href="#">christian.lira.gl@gmail.com </a>
