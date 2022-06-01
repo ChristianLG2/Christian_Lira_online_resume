@@ -70,7 +70,7 @@ __Computer__
 
 __Languge__
 - Able to comunicate fluently in Spanish
-- other laguages (not as fluent): Chinese and German
+- other laguages: Chinese
 
 __Values__
 - Strong work values necessary for an enjoyable workspace.
@@ -96,7 +96,7 @@ __Data Analysis and Manipulation__
 
 __Language learning__
 
-- Fluent in English and Spanish, can comunicate in diferent levels in German and Chinese.
+- Fluent in English and Spanish, can comunicate in Chinese.
 - Currently coursing a cluster in Chinese at BYUI.
 
 
