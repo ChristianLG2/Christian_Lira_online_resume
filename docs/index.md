@@ -21,7 +21,7 @@ Business Analyst studying at Brigham Young University Idaho. Able to work in lar
 __Brigham Young University Idaho__, Rexburg, ID.
 
 - BUsiness Analytics 
-- Current GPA 3.1 GPA
+
 
 
 `Expected Graduation 2025`
