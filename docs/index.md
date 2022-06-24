@@ -20,7 +20,7 @@ Business Analyst studying at Brigham Young University Idaho. Able to work in lar
 `2021 - Currently attending`
 __Brigham Young University Idaho__, Rexburg, ID.
 
-- BUsiness Analytics 
+- Business Analytics 
 
 
 
