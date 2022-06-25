@@ -12,9 +12,10 @@ title: Christian Lira's Resume
 </div>
 
 
-Business Analyst studying at Brigham Young University Idaho. Able to work in large groups, leadership experince, teacheable and adaptable to new enviroments. Experience with some programming languages and data manipulation.
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+
+
 
 ## Education
 
@@ -22,10 +23,10 @@ Business Analyst studying at Brigham Young University Idaho. Able to work in lar
 __Brigham Young University Idaho__, Rexburg, ID.
 
 - Business Analytics 
-
-
-
 `Expected Graduation 2025`
+
+Business Analyst studying at Brigham Young University Idaho. Able to work in large groups, leadership experince, teacheable and adaptable to new enviroments. Experience with some programming languages and data manipulation.
+
 
 ## Work and Service History
 
