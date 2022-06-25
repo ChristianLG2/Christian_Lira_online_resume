@@ -29,20 +29,20 @@ Business Analyst studying at Brigham Young University Idaho. Able to work in lar
 
 ## Work and Service History
 
-`2016 - 2017`
-__Sales Representative and Coustumer Service__, Royal Prestige Mexico
-
-`2017-2018`
-__Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
-
-`2018-2020`
-__Church of Jesus Christ of Latter Day Saints Service Missionary__: Mexico Pachuca and Utah Orem Missions
+`2021-Active`
+__Early Morning Custodian__, Manwaring Center BYUI
 
 `2020`
 __English as Second Language Professor__, Centro de Ingles Personalizado (CIP) Mexico
 
-`2021-Active`
-__Early Morning Custodian__, Manwaring Center BYUI
+`2018-2020`
+__Church of Jesus Christ of Latter Day Saints Service Missionary__: Mexico Pachuca and Utah Orem Missions
+
+`2017-2018`
+__Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
+
+`2016 - 2017`
+__Sales Representative and Coustumer Service__, Royal Prestige Mexico
 
 ### Side Projects
 
