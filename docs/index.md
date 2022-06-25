@@ -29,16 +29,11 @@ Business Analyst studying at Brigham Young University Idaho. Able to work in lar
 
 ## Work and Service History
 
-
-
 `2016 - 2017`
 __Sales Representative and Coustumer Service__, Royal Prestige Mexico
 
-
 `2017-2018`
 __Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
-
-
 
 `2018-2020`
 __Church of Jesus Christ of Latter Day Saints Service Missionary__: Mexico Pachuca and Utah Orem Missions
@@ -49,15 +44,19 @@ __English as Second Language Professor__, Centro de Ingles Personalizado (CIP) M
 `2021-Active`
 __Early Morning Custodian__, Manwaring Center BYUI
 
+### Side Projects
 
+__Demographic Analysis__
 
+- Manipulated data and information based on concesus by INEGI in Mexico to conduct a demographic analysis of Sexism in Mexico for a specific state during the last century.
+- Used some of the programming tools as Python and libraries within Altair/ Pandas / Numpy. As well the manipulation of the same data through Query languages and other data readers such as excel.
 
 ## Career Related Experience
 
 ### Skills and Abilities
 
 
-__Communication__
+__Communication__:
 - Able to communicate directly and professionally to leaders and co-workers
 - Ability to write and respond to messages or calls in the appropiate way and time.
 
@@ -65,38 +64,20 @@ __Leadership__:
 - Able to lead a team to complete projects succesfully meeting requirements
 - Able to motivate project members including myself to meet expectations 
 
-__Computer__
+__Computer__:
 - Recent experience with Python programming in Data manipulation with libraries such as Pandas / Altair / Numpy. 
 - Recent Experience with Data retrieval from Data Bases through Queries such as Mysql and nonSQL DataBase such as MongoDB
-
-__Languge__
-- Able to comunicate fluently in Spanish
-- other laguages: Chinese
-
-__Values__
-- Strong work values necessary for an enjoyable workspace.
-
-### Personal Projects
-
-
-__Demographic Analysis__
-
-- Manipulated data and information based on concesus by INEGI in Mexico to conduct a demographic anslysis of Sexism in Mexico for a specific state during the last century.
-- Used some of the programming tools as Python and libraries within Altair/ Pandas / Numpy. As well the manipulation of the same data through Query languages and other data readers such as excel.
-
 
 
 ## Interests
 
 __Politics and Social Sciences__
-
 - Currently coursing a minor in Political Sciences at BYUI.
 
 __Data Analysis and Manipulation__
 - I seek to keep growing my abilities and skills through personal projects
 
 __Language learning__
-
 - Fluent in English and Spanish, can comunicate in Chinese.
 - Currently coursing a cluster in Chinese at BYUI.
 
@@ -104,7 +85,6 @@ __Language learning__
 
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: June 2022 -->
 
 
