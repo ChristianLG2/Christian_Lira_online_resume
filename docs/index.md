@@ -76,11 +76,11 @@ __Politics and Social Sciences__
 - Currently coursing a minor in Political Sciences at BYUI.
 
 __Data Analysis and Manipulation__
-- I seek to keep growing my abilities and skills through personal projects
+Constantly seeking to create situations that help me improve and enhance my abilities and skills.
 
 __Language learning__
-- Fluent in English and Spanish, can comunicate in Chinese.
-- Currently coursing a cluster in Chinese at BYUI.
+- Fluent in English and Spanish.
+- Currently coursing an itermediate Chinese cluster class at BYUI.
 
 
 
