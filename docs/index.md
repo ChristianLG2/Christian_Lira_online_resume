@@ -22,8 +22,8 @@ title: Christian Lira's Resume
 `2021 - Currently attending`
 __Brigham Young University Idaho__, Rexburg, ID.
 
-`Expected Graduation 2025` 
-Business Analyst studying at Brigham Young University Idaho. Experienced working in large groups and in leadership positions. Teacheable and eagerly adaptable to new learning and work enviroments. Experience with programming languages and data manipulation.
+`Expected Graduation 2025` Business Analyst / Public Relations Specialist
+Currently Studying at Brigham Young University Idaho. Experienced working in large groups and in leadership positions. Teacheable and eagerly adaptable to new learning and work enviroments. Experience with programming languages and data manipulation.
 
 
 ## Work and Service History
