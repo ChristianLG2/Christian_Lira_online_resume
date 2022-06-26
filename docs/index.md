@@ -38,6 +38,7 @@ __English as Second Language Professor__, Centro de Ingles Personalizado (CIP) M
 `2018-2020`
 __Church of Jesus Christ of Latter Day Saints Service Missionary__: Mexico Pachuca and Utah Orem Missions
 
+
 `2017-2018`
 __Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
 
