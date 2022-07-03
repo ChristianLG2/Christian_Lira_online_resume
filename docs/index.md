@@ -12,13 +12,12 @@ title: Christian Lira's Resume
 </div>
 
 
-## Education
+## Education:
 
 `2021 - 2025`
 __Brigham Young University Idaho__, Rexburg, ID.
 
-Business Analyst / Public Relations Specialist:
-
+### Business Analyst / Public Relations Specialist:
 Currently Studying at Brigham Young University Idaho. Experienced working in large groups and in leadership positions. Teacheable and eagerly adaptable to new learning and work enviroments. Experience with programming languages and data manipulation.
 
 
@@ -43,14 +42,14 @@ __Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
 `2016 - 2017`
 __Sales Representative and Coustumer Service__, Royal Prestige Mexico
 
-### Side Projects:
+### Side Projects
 
 __Demographic Analysis__
 
 - Manipulated data and information based on concesus by INEGI in Mexico to conduct a demographic analysis of Sexism in Mexico for a specific state during the last century.
 - Used some of the programming tools as Python and libraries within Altair/ Pandas / Numpy. As well the manipulation of the same data through Query languages and other data readers such as excel.
 
-## Career Related Experience
+## Career Related Experience:
 
 ### Skills and Abilities
 
