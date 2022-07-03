@@ -14,7 +14,7 @@ title: Christian Lira's Resume
 
 ## Education
 
-`2021 - Currently attending`
+`2021 - 2025`
 __Brigham Young University Idaho__, Rexburg, ID.
 
 Business Analyst / Public Relations Specialist:
