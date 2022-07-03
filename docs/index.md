@@ -12,11 +12,6 @@ title: Christian Lira's Resume
 </div>
 
 
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
-
-
 ## Education
 
 `2021 - Currently attending`
@@ -87,5 +82,7 @@ __Language learning__
 
 <!-- ### Footer
 Last updated: June 2022 -->
+
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 
