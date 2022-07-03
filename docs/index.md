@@ -36,7 +36,7 @@ __Church of Jesus Christ of Latter Day Saints Service Missionary__, Utah Orem Mi
 
 `2017-2018`
 __Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
-* Designed and Ran Marketing campaigns that raised the number of Student applicants by about 30%, getting full classrooms capacity. 
+* Co-designed and ran marketing campaigns that raised the number of Student applicants by about 30%, getting full classrooms capacity. 
 * Betterment and Management of Business Spreadsheets.
 
 `2016 - 2017`
