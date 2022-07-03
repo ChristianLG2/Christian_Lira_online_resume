@@ -22,14 +22,14 @@ Business Analyst / Public Relations Specialist:
 Currently Studying at Brigham Young University Idaho. Experienced working in large groups and in leadership positions. Teacheable and eagerly adaptable to new learning and work enviroments. Experience with programming languages and data manipulation.
 
 
-## Work and Service History
+## Work and Service History:
 
 `2021-Active`
 __Early Morning Custodian__, Manwaring Center BYUI
 
 `2020`
 __English as Second Language Professor__, Centro de Ingles Personalizado (CIP) Mexico:
-Accomplishments: 
+    Accomplishments: 
 
 
 
@@ -43,7 +43,7 @@ __Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
 `2016 - 2017`
 __Sales Representative and Coustumer Service__, Royal Prestige Mexico
 
-### Side Projects
+### Side Projects:
 
 __Demographic Analysis__
 
@@ -68,7 +68,7 @@ __Computer__:
 - Recent Experience with Data retrieval from Data Bases through Queries such as Mysql and nonSQL DataBase such as MongoDB
 
 
-## Interests
+## Interests:
 
 __Politics and Social Sciences__
 - Currently coursing a minor in Political Sciences at BYUI.
