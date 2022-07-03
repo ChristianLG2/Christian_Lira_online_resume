@@ -16,7 +16,7 @@ title: Christian Lira's Resume
 
 `2021 - 2025`
 __Brigham Young University Idaho__, Rexburg, ID.
-### Business Analyst / Public Relations Specialist:     
+_Business Analyst / Public Relations Specialist_:     
     Currently Studying at Brigham Young University Idaho. Experienced working in large groups and in leadership positions. Teacheable and eagerly adaptable to new learning and work enviroments. Experience with programming languages and data manipulation.
 
 
@@ -27,7 +27,7 @@ __Early Morning Custodian__, Manwaring Center BYUI
 
 `2020`
 __English as Second Language Professor__, Centro de Ingles Personalizado (CIP) Mexico:
-    Accomplishments: 
+ 
 
 
 
