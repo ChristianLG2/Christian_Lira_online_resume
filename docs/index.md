@@ -28,7 +28,7 @@ __Early Morning Custodian__, Manwaring Center BYUI
 `2020`
 __English as Second Language Professor__, Centro de Ingles Personalizado (CIP) Mexico: 
 * Supervised the creation and betterment of class structure for 2 Levels in TESOL for the institution.
-* Imparted "Beginner" Personalized English classes, as well "Intermidiate" English clasess for groups up to 20 students.
+* Imparted "Beginner" Personalized English classes, as well "Intermidiate" English classes for groups up to 20 students.
  
 `2018-2020`
 __Church of Jesus Christ of Latter Day Saints Service Missionary__, Utah Orem Mission and Mexico Pachuca Mission:
@@ -36,6 +36,8 @@ __Church of Jesus Christ of Latter Day Saints Service Missionary__, Utah Orem Mi
 
 `2017-2018`
 __Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
+* Designed and Ran a Marketing campaigns that raised the number of Student applicants by about 30%, getting full classrooms capacity. 
+* Betterment and Management of Business Spreadsheets.
 
 `2016 - 2017`
 __Sales Representative and Coustumer Service__, Royal Prestige Mexico
