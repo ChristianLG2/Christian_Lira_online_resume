@@ -75,7 +75,7 @@ Constantly seeking to create situations that help me improve and enhance my abil
 
 __Language learning__
 - Fluent in English and Spanish.
-- Currently coursing an itermediate Chinese cluster class at BYUI.
+- Currently coursing an intermediate Chinese cluster class at BYUI.
 
 
 
