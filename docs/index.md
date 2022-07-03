@@ -11,14 +11,13 @@ title: Christian Lira's Resume
 | <a href="https://github.com/ChristianLG2">GitHub</a>
 </div>
 
-
 ## Education:
 
 `2021 - 2025`
 __Brigham Young University Idaho__, Rexburg, ID.
 
 __Business Analyst / Public Relations Specialist__:     
-    Currently Studying at Brigham Young University Idaho. Experienced working in large groups and in leadership positions. Teacheable and eagerly adaptable to new learning and work enviroments. Experience with programming languages and data manipulation.
+Currently Studying at Brigham Young University Idaho. Experienced working in large groups and in leadership positions. Teacheable and eagerly adaptable to new learning and work enviroments. Experience with programming languages and data manipulation.
 
 
 ## Work and Service History:
@@ -29,12 +28,8 @@ __Early Morning Custodian__, Manwaring Center BYUI
 `2020`
 __English as Second Language Professor__, Centro de Ingles Personalizado (CIP) Mexico:
  
-
-
-
 `2018-2020`
 __Church of Jesus Christ of Latter Day Saints Service Missionary__: Mexico Pachuca and Utah Orem Missions
-
 
 `2017-2018`
 __Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
@@ -53,7 +48,6 @@ __Demographic Analysis__
 
 ### Skills and Abilities
 
-
 __Communication__:
 - Able to communicate directly and professionally to leaders and co-workers
 - Ability to write and respond to messages or calls in the appropiate way and time.
@@ -66,7 +60,6 @@ __Computer__:
 - Recent experience with Python programming in Data manipulation with libraries such as Pandas / Altair / Numpy. 
 - Recent Experience with Data retrieval from Data Bases through Queries such as Mysql and nonSQL DataBase such as MongoDB
 
-
 ## Interests:
 
 __Politics and Social Sciences__
@@ -78,9 +71,6 @@ Constantly seeking to create situations that help me improve and enhance my abil
 __Language learning__
 - Fluent in English and Spanish.
 - Currently coursing an intermediate Chinese cluster class at BYUI.
-
-
-
 
 <!-- ### Footer
 Last updated: June 2022 -->
