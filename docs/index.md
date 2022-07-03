@@ -27,7 +27,7 @@ __Early Morning Custodian__, Manwaring Center BYUI
 
 `2020`
 __English as Second Language Professor__, Centro de Ingles Personalizado (CIP) Mexico: 
-    * Supervised the creation and betterment of class structure for 3 Levels in TESOL for the institution.
+* Supervised the creation and betterment of class structure for 3 Levels in TESOL for the institution.
  
 `2018-2020`
 __Church of Jesus Christ of Latter Day Saints Service Missionary__: Utah Orem Mission and Mexico Pachuca Mission
