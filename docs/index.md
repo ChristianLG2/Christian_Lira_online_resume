@@ -11,7 +11,7 @@ title: Christian Lira's Resume
 | <a href="https://github.com/ChristianLG2">GitHub</a>
 </div>
 
-## Education:
+## Education
 
 `2021 - 2025`
 __Brigham Young University Idaho__, Rexburg, ID.
@@ -35,7 +35,7 @@ Word), and Adobe Creative Cloud apps. Effectively implementation of workflow bet
 
 
 
-## Work and Service History:
+## Work and Service History
 `2022-Active`
 __Chick Fill-A Team member__, Crossroads Food Services at Brigham Young University Idaho
 - Currently Active
@@ -73,7 +73,7 @@ power Bi.
 
 
 
-## Interests:
+## Interests
 
 - Seeking a Secondary Degree in Political Sciences with a profound interest in Foreign Affairs, International Relations, and a special
 emphasis on Political Theory.
