@@ -16,7 +16,7 @@ title: Christian Lira's Resume
 `2021 - 2025`
 __Brigham Young University Idaho__, Rexburg, ID.
 
-__Business Analyst / Public Relations Specialist__:     
+__Business Analyst / International Relations Specialist.__:     
 Currently Seeking a Business Analytics degree, with a political science minor degree and a Chinese cluster at Brigham Young University Idaho.
 Teachable and eagerly adaptable to new learning and work environments. Experienced with programming languages and data manipulation.
 Experienced working in large groups and in leadership positions.
