@@ -17,13 +17,32 @@ title: Christian Lira's Resume
 __Brigham Young University Idaho__, Rexburg, ID.
 
 __Business Analyst / Public Relations Specialist__:     
-Currently Studying at Brigham Young University Idaho. Experienced working in large groups and in leadership positions. Teacheable and eagerly adaptable to new learning and work enviroments. Experience with programming languages and data manipulation.
+Currently Seeking a Business Analytics degree, with a political science minor degree and a Chinese cluster at Brigham Young University Idaho.
+Teachable and eagerly adaptable to new learning and work environments. Experienced with programming languages and data manipulation.
+Experienced working in large groups and in leadership positions.
+
+## Skills 
+
+- Leadership skills including Ownership, Frugality, Thinking Big, etc.
+- Business implementation of Statistical Method Analysis including z-test, t-test, chi-squared, ANOVA, etc.
+- Qualified Technical skills: R statistical analysis, Python Programming experience including libraries Altair, Pandas, and NumPy.
+Database Design, Development, and Query through MySQL Query language, Microsoft Office Suite (Power BI, Excel, PowerPoint, and
+Word), and Adobe Creative Cloud apps. Effectively implementation of workflow between tools and apps.
+- Critical thinking and decision-making.
+- Able to maintain excellent team Workflow and Effective Communication.
+- English(Professional), Spanish(Native), Chinese(HSK3), German(B1).
+
+
 
 
 ## Work and Service History:
+`2022-Active`
+__Chick Fill-A Team member__, Crossroads Food Services at Brigham Young University Idaho
+- Currently Active
 
-`2021-Active`
+`2021-2022`
 __Early Morning Custodian__, Manwaring Center BYUI
+- Mentored and trained new team members on tasks to be accomplished within requirements of effectivity and company culture by applying methods of leadership principles.
 
 `2020`
 __English as Second Language Professor__, Centro de Ingles Personalizado (CIP) Mexico: 
@@ -42,44 +61,25 @@ __Administrative Secretary__, Centro de Ingles Personalizado (CIP) Mexico
 `2016 - 2017`
 __Sales Representative and Coustumer Service__, Royal Prestige Mexico
 
-### Side Projects
+## Projects
 
 __Demographic Analysis__
 
-- Manipulated data and information based on concesus by INEGI in Mexico to conduct a demographic analysis of Sexism in Mexico for a specific state during the last century.
-- Used some of the programming tools as Python and libraries within Altair/ Pandas / Numpy. As well the manipulation of the same data through Query languages and other data readers such as excel.
+- Conducted an independent demographic study based on population Census data by INEGI (Mexico), focusing on development,
+population growth, and Sexism through data manipulation and usage of programming tools and methods such as Python and its
+libraries: Altair, Pandas, and NumPy; as well of the query languages MySQL, and data reader Excel spreadsheets, further report on
+power Bi.
 
-## Career Related Experience:
 
-### Skills and Abilities
 
-__Communication__:
-- Able to communicate directly and professionally to leaders and co-workers
-- Ability to write and respond to messages or calls in the appropiate way and time.
-
-__Leadership__:
-- Able to lead a team to complete projects succesfully meeting requirements
-- Able to motivate project members including myself to meet expectations 
-
-__Computer__:
-- Recent experience with Python programming in Data manipulation with libraries such as Pandas / Altair / Numpy. 
-- Recent Experience with Data retrieval from Data Bases through Queries such as Mysql and nonSQL DataBase such as MongoDB
 
 ## Interests:
 
-__Politics and Social Sciences__
-- Currently coursing a minor in Political Sciences at BYUI.
-
-__Data Analysis and Manipulation__
-Constantly seeking to create situations that help me improve and enhance my abilities and skills.
-
-__Language learning__
-- Fluent in English and Spanish.
-- Currently coursing an intermediate Chinese cluster class at BYUI.
-
+- Seeking a Secondary Degree in Political Sciences with a profound interest in Foreign Affairs, International Relations, and a special
+emphasis on Political Theory.
+- German and Chinese Language and Cultural Learning 
 <!-- ### Footer
-Last updated: June 2022 -->
+<!-- Last updated: February 2023 --> 
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 
