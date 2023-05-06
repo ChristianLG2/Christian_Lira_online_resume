@@ -69,7 +69,7 @@ power Bi.
 
 `2018-2020`
 __Church of Jesus Christ of Latter Day Saints Service Missionary__, Utah Orem Mission and Mexico Pachuca Mission:
-* Leadership Position: Trained and supervised the efficiency and well being of groups up to 30 assigned Spanish and English speaking missionaries.
+- Leadership Position: Trained and supervised the efficiency and well being of groups up to 30 assigned Spanish and English speaking missionaries.
 
 ## Interests
 
