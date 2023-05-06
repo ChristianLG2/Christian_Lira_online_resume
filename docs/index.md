@@ -73,7 +73,7 @@ __Church of Jesus Christ of Latter Day Saints Service Missionary__, Utah Orem Mi
 
 ## Interests
 
-* Seeking a secondary minor degree in Political Sciences with profound interest for Foreign Affairs, International Relations, with emphasis on the Philosophy of Political Economic Theory.
++ Seeking a secondary minor degree in Political Sciences with profound interest for Foreign Affairs, International Relations, with emphasis on the Philosophy of Political Economic Theory.
 <!-- ### Footer
 <!-- Last updated: May 2023 --> 
 
