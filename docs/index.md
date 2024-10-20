@@ -3,6 +3,9 @@ layout: cv
 title: Christian Lira's Resume
 ---
 # Christian Lira Gonzalez - 李浩峰 
+
+
+
 *** Business Operations & Data Science Analyst - 业务运营和数据科学分析师 ***
 
 
@@ -35,14 +38,12 @@ __Brigham Young University Idaho__
 
 `Draper, Utah, USA -- September 2023 to September 2024`
 
-__Tesla Inc__ Data Master, Finance Operations Intern:
+__Tesla Inc__ 
+Data Master, Finance Operations Intern:
 
-• Led the development and implementation of data-driven dashboards and reports utilizing SQL queries to optimize financial operations visibility 
-and enhance decision-making processes. Successfully transitioned dashboards from third-party applications (Power BI & Tableau) to in-house 
-platforms, significantly improving data integrity and workflow efficiency using R, Python and UI development tools JavaScript, CSS, and HTML. 
-• Enhanced data management practices by reviewing all vendor creations and additions, ensuring comprehensive validation steps were completed 
-to maintain high data quality across financial operations. 
-• Conducted root-cause analysis on master data integration issues, recommending and implementing corrective actions to optimize the Global 
+* Led the development and implementation of data-driven dashboards and reports utilizing SQL queries to optimize financial operations visibility and enhance decision-making processes. Successfully transitioned dashboards from third-party applications (Power BI & Tableau) to in-house platforms, significantly improving data integrity and workflow efficiency using R, Python and UI development tools JavaScript, CSS, and HTML. 
+* Enhanced data management practices by reviewing all vendor creations and additions, ensuring comprehensive validation steps were completed to maintain high data quality across financial operations. 
+* Conducted root-cause analysis on master data integration issues, recommending and implementing corrective actions to optimize the Global 
 Procure-To-Pay process and enhance data integration frameworks. 
 • Supported the governance of master data creation and maintenance, assisting in the oversight of Vendor Master and Reference data across the 
 organization to ensure consistency and reliability in business operations. 
@@ -57,7 +58,8 @@ integrity.
 
 `Remote -- May 2024 to September 2024`
 
-__Open Teams & Quansight__ Student Mentor & Developer:
+__Open Teams & Quansight__ 
+Student Mentor & Developer:
 
 Introduced to POSSEE, an open-source software ecosystem. Communicated the needs of the OSS project to assigned apprentices in West Africa as 
 assigned area, reviewed apprentices’ PRs, provided friendly support, and held weekly meetings to ensure progress and address challenges. 
@@ -69,7 +71,8 @@ research on dataframe-consuming libraries (e.g., skrub, scikit-lego, scikit-lear
 
 `Rexburg, Idaho, USA -- March 2023 to March 2024`
 
-__Institutional Research & Assessment Department BYU-I__ Research Specialist & Analyst:
+__Institutional Research & Assessment BYU-I__ 
+Research Specialist & Analyst:
 
 • Designed and implemented comprehensive surveys using Qualtrics and conducted quantitative data analysis with Excel, Power BI, Python, and R, 
 providing actionable insights for decision-making and strategic planning to enhance student outcomes. 
@@ -91,7 +94,8 @@ __Onsemi__ DSS Project Co-Manager:
 
 `San Luis Potosi, SLP, Mexico -- June 2017 to December 2020`
 
-__Centro de Ingles Personalizado (CIP)__ Administrative Secretary & TESOL Teacher:
+__Centro de Ingles Personalizado (CIP)__ 
+Administrative Secretary & TESOL Teacher:
 
 * Analyzed, Co-designed, and ran social apps marketing campaigns raising the number of student and Professor applicants by about 30%, getting high levels of student retention and full classroom capacity. 
 * Managed to create and improve the class structure for 2 Levels of TESOL for institutional implementation.
@@ -136,6 +140,7 @@ communication in diverse cultural environments.
 ## Comunity Service
 
 `Orem, Utah, USA ~ Pachuca, Hidalgo, Mexico -- August 2018 to June 2020`
+
 
 __Church of Jesus Christ of Latter Day Saints Service Missionary__
 
