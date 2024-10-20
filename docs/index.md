@@ -4,8 +4,6 @@ title: Christian Lira's Resume
 ---
 # Christian Lira Gonzalez - 李浩峰 
 
-
-
 ***Business Operations & Data Science Analyst - 业务运营和数据科学分析师***
 
 
@@ -56,9 +54,10 @@ Developed and maintained key cross-functional relationships with purchasing, ope
 Ensured compliance with SOX Controls, finance policies, and procedures, upholding stringent standards to maintain operational and financial 
 integrity. 
 
-</br>
-</br>
-</br>
+
+<br/>
+<br/>
+
 
 `Remote -- May 2024 to September 2024`
 
@@ -71,7 +70,8 @@ Developed easy-to-follow tutorials and a complete API reference for the Narwhals
 
 Conducted user research on dataframe-consuming libraries (e.g., skrub, scikit-lego, scikit-learn, timebasedcv, tubular).
 
-
+<br>
+<br>
 
 `Rexburg, Idaho, USA -- March 2023 to March 2024`
 
