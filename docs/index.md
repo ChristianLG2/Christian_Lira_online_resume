@@ -38,6 +38,8 @@ __Brigham Young University Idaho__
 
 `Draper, Utah, USA -- September 2023 to September 2024`
 
+<br>
+
 __Tesla Inc__ 
 Data Master, Finance Operations Intern:
 
@@ -62,6 +64,8 @@ integrity.
 
 `Remote -- May 2024 to September 2024`
 
+<br>
+
 __Open Teams & Quansight__ 
 Student Mentor & Developer:
 
@@ -76,6 +80,8 @@ Conducted user research on dataframe-consuming libraries (e.g., skrub, scikit-le
 
 `Rexburg, Idaho, USA -- March 2023 to March 2024`
 
+<br>
+
 __Institutional Research & Assessment BYU-I__ 
 Research Specialist & Analyst:
 
@@ -87,6 +93,8 @@ Utilized iPaaS solutions to create and maintain data flows on Team Dynamix, faci
 <br>
 
 `Rexburg, Idaho, USA -- April 2023 to August 2023`
+
+<br>
 
 __Onsemi__ DSS Project Co-Manager:
 
