@@ -3,7 +3,7 @@ layout: cv
 title: Christian Lira's Resume
 ---
 # Christian Lira Gonzalez - 李浩峰 
-### Business Operations & Data Science Analyst - 业务运营和数据科学分析师
+*** Business Operations & Data Science Analyst - 业务运营和数据科学分析师 ***
 
 
 
@@ -19,8 +19,8 @@ title: Christian Lira's Resume
 
 ## Education
 
-`2021 - Exp. July 2025`
-`Rexburg, Idaho, USA`
+`Rexburg, Idaho, USA -- 2021 to Exp. July 2025`
+
 __Brigham Young University Idaho__
 
 * Bachelor of Science: Business Analytics 
@@ -33,8 +33,8 @@ __Brigham Young University Idaho__
 
 ## Relevant Experience 
 
-`September 2023 - January 2024 & March 2024 - September 2024`
-`Draper, Utah, USA`
+`Draper, Utah, USA -- September 2023 to September 2024`
+
 __Tesla Inc__ Data Master, Finance Operations Intern:
 
 • Led the development and implementation of data-driven dashboards and reports utilizing SQL queries to optimize financial operations visibility 
@@ -55,8 +55,8 @@ integrity.
 
 
 
-`May 2024 –  September 2024`
-`Remote`
+`Remote -- May 2024 to September 2024`
+
 __Open Teams & Quansight__ Student Mentor & Developer:
 
 Introduced to POSSEE, an open-source software ecosystem. Communicated the needs of the OSS project to assigned apprentices in West Africa as 
@@ -67,8 +67,8 @@ research on dataframe-consuming libraries (e.g., skrub, scikit-lego, scikit-lear
 
 
 
-`March 2023 - March 2024`
-`Rexburg, Idaho, USA`
+`Rexburg, Idaho, USA -- March 2023 to March 2024`
+
 __Institutional Research & Assessment Department BYU-I__ Research Specialist & Analyst:
 
 • Designed and implemented comprehensive surveys using Qualtrics and conducted quantitative data analysis with Excel, Power BI, Python, and R, 
@@ -79,8 +79,8 @@ resources and information.
 
 
 
-`April 2023 - August 2023`
-`Rexburg, Idaho, USA`
+`Rexburg, Idaho, USA -- April 2023 to August 2023`
+
 __Onsemi__ DSS Project Co-Manager:
 
 * Collaborated with Onsemi, a leading semiconductor manufacturing company, to develop a web-based application that tracks sentiment in news articles related to Onsemi and its competitors utilizing APIs to collect relevant news articles from various sources, ensuring up-to-date and comprehensive data for analysis.
@@ -89,8 +89,8 @@ __Onsemi__ DSS Project Co-Manager:
  
 
 
-`June 2017 - December 2020`
-`San Luis Potosi, SLP, Mexico`
+`San Luis Potosi, SLP, Mexico -- June 2017 to December 2020`
+
 __Centro de Ingles Personalizado (CIP)__ Administrative Secretary & TESOL Teacher:
 
 * Analyzed, Co-designed, and ran social apps marketing campaigns raising the number of student and Professor applicants by about 30%, getting high levels of student retention and full classroom capacity. 
@@ -130,13 +130,13 @@ communication in diverse cultural environments.
 <div id="webaddress">
 <a href="https://github.com/ChristianLG2">GitHub Repository</a>
 <a href="https://christianlg2.github.io/ChristianLG/MyPortfolio.html">My Portfolio</a>
-<a href="">
+<a href="https://substack.com/@christianlirag">Substack</a>
 </div>
 
 ## Comunity Service
 
-`August 2018 - June 2020`
-`Orem, Utah, USA ~ Pachuca, Hidalgo, Mexico`
+`Orem, Utah, USA ~ Pachuca, Hidalgo, Mexico -- August 2018 to June 2020`
+
 __Church of Jesus Christ of Latter Day Saints Service Missionary__
 
 * Led and trained groups of twenty-five missionaries across extensive geographical areas in two countries, overseeing performance and well-being. 
