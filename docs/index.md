@@ -7,7 +7,7 @@ title: Christian Lira's Resume
 
 ***Business Operations & Data Science Analyst - 业务运营和数据科学分析师***
 
-
+<br/>
 
 <div id="webaddress">
 <a href="">christian.lira.gl@gmail.com </a>
@@ -100,6 +100,8 @@ Applied Natural Language Processing (NLP) and sentiment analysis to determine th
 <br>
 
 `San Luis Potosi, SLP, Mexico -- June 2017 to December 2020`
+
+<br/>
 
 __Centro de Ingles Personalizado (CIP)__ 
 Administrative Secretary & TESOL Teacher:
