@@ -26,12 +26,12 @@ title: Christian Lira's Resume
 
 __Brigham Young University Idaho__
 
-**Bachelor of Science: __Business Analytics.__**
-**Minor: __Data Science.__**  
-**Secondary Minor: __Political Science.__**
-**Certificate: __Computer Programing.__**
-**Cluster: __Chinese Language & Culture.__**
-**Extracurricular Activities: __Member of the Data Science & AI society__**
+* **Bachelor of Science: _Business Analytics._**
+* **Minor: _Data Science._**  
+* **Secondary Minor: _Political Science._**
+* **Certificate: _Computer Programing._**
+* **Cluster: _Chinese Language & Culture._**
+* **Extracurricular Activities: _Member of the Data Science & AI society_**
 
 
 ## Relevant Experience 
@@ -41,13 +41,19 @@ __Brigham Young University Idaho__
 __Tesla Inc__ 
 Data Master, Finance Operations Intern:
 
-* Led the development and implementation of data-driven dashboards and reports utilizing SQL queries to optimize financial operations visibility and enhance decision-making processes. Successfully transitioned dashboards from third-party applications (Power BI & Tableau) to in-house platforms, significantly improving data integrity and workflow efficiency using R, Python and UI development tools JavaScript, CSS, and HTML. 
-* Enhanced data management practices by reviewing all vendor creations and additions, ensuring comprehensive validation steps were completed to maintain high data quality across financial operations. 
-* Conducted root-cause analysis on master data integration issues, recommending and implementing corrective actions to optimize the Global Procure-To-Pay process and enhance data integration frameworks. 
-* Supported the governance of master data creation and maintenance, assisting in the oversight of Vendor Master and Reference data across the organization to ensure consistency and reliability in business operations. 
-* Led audit and data cleansing activities for master and reference data across all locations, coordinating efforts to improve data quality, which is critical for avoiding delays in supply chain and supporting uninterrupted business continuity. 
-* Developed and maintained key cross-functional relationships with purchasing, operations, and finance departments to resolve vendor-related issues impacting various business areas.
-* Ensured compliance with SOX Controls, finance policies, and procedures, upholding stringent standards to maintain operational and financial 
+Led the development and implementation of data-driven dashboards and reports utilizing SQL queries to optimize financial operations visibility and enhance decision-making processes. Successfully transitioned dashboards from third-party applications (Power BI & Tableau) to in-house platforms, significantly improving data integrity and workflow efficiency using R, Python and UI development tools JavaScript, CSS, and HTML. 
+
+Enhanced data management practices by reviewing all vendor creations and additions, ensuring comprehensive validation steps were completed to maintain high data quality across financial operations. 
+
+Conducted root-cause analysis on master data integration issues, recommending and implementing corrective actions to optimize the Global Procure-To-Pay process and enhance data integration frameworks. 
+
+Supported the governance of master data creation and maintenance, assisting in the oversight of Vendor Master and Reference data across the organization to ensure consistency and reliability in business operations. 
+
+Led audit and data cleansing activities for master and reference data across all locations, coordinating efforts to improve data quality, which is critical for avoiding delays in supply chain and supporting uninterrupted business continuity. 
+
+Developed and maintained key cross-functional relationships with purchasing, operations, and finance departments to resolve vendor-related issues impacting various business areas.
+  
+Ensured compliance with SOX Controls, finance policies, and procedures, upholding stringent standards to maintain operational and financial 
 integrity. 
 
 
