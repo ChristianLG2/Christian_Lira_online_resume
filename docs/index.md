@@ -3,6 +3,7 @@ layout: cv
 title: Christian Lira's Resume
 ---
 # Christian Lira Gonzalez - 李浩峰 
+<br/>
 
 ***Business Operations & Data Science Analyst - 业务运营和数据科学分析师***
 
@@ -23,6 +24,7 @@ title: Christian Lira's Resume
 `Rexburg, Idaho, USA -- 2021 to Exp. July 2025`
 
 __Brigham Young University Idaho__
+<br/>
 
 * Bachelor of Science: _Business Analytics._
 * Minor: _Data Science._
@@ -55,9 +57,8 @@ Ensured compliance with SOX Controls, finance policies, and procedures, upholdin
 integrity. 
 
 
-<br/>
-<br/>
-
+<br>
+<br>
 
 `Remote -- May 2024 to September 2024`
 
@@ -82,7 +83,8 @@ Designed and implemented comprehensive surveys using Qualtrics and conducted qua
 
 Utilized iPaaS solutions to create and maintain data flows on Team Dynamix, facilitating the integration and visualization of essential business information. Developed dynamic dashboards that impacted both on-campus and online students by ensuring seamless access to university resources and information.
 
-
+<br>
+<br>
 
 `Rexburg, Idaho, USA -- April 2023 to August 2023`
 
@@ -94,7 +96,8 @@ Implemented web scraping techniques to extract essential keywords, including com
 
 Applied Natural Language Processing (NLP) and sentiment analysis to determine the positivity or negativity of keywords, providing valuable insights into public perception.
  
-
+<br>
+<br>
 
 `San Luis Potosi, SLP, Mexico -- June 2017 to December 2020`
 
@@ -106,6 +109,9 @@ Analyzed, Co-designed, and ran social apps marketing campaigns raising the numbe
 Managed to create and improve the class structure for 2 Levels of TESOL for institutional implementation.
 
 Imparted "Beginner" & "Intermediate" levels Personalized English classes for groups of up to 20 students.
+
+<br>
+<br>
 
 ## Skills 
 
@@ -155,6 +161,7 @@ __GitHub Repositories:__
 
 `Orem, Utah, USA ~ Pachuca, Hidalgo, Mexico -- August 2018 to June 2020`
 
+<br>
 
 __Church of Jesus Christ of Latter Day Saints Service Missionary__
 
