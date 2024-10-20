@@ -31,7 +31,7 @@ __Brigham Young University Idaho__
 * Secondary Minor: _Political Science._
 * Certificate: _Computer Programing._
 * Cluster: _Chinese Language & Culture._
-* Extracurricular Activities: _Member of the Data Science & AI society_
+* Extracurricular Activities: _Member of the Data Science & AI society._
 
 
 ## Relevant Experience 
