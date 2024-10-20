@@ -11,8 +11,8 @@ title: Christian Lira's Resume
 
 
 <div id="webaddress">
-<a href="christian.lira.gl@gmail.com">christian.lira.gl@gmail.com </a>
-| <a href="lir18001@byui.edu">lir18001@byui.edu</a>
+<a href="">christian.lira.gl@gmail.com </a>
+| <a href="">lir18001@byui.edu</a>
 | <a href="https://www.linkedin.com/in/christian-lira-6598341b9/">LinkedIn</a>
 | <a href="https://github.com/ChristianLG2">GitHub</a>
 | <a href= "https://christianlg2.github.io/ChristianLG/">Personal Website</a>
@@ -26,12 +26,12 @@ title: Christian Lira's Resume
 
 __Brigham Young University Idaho__
 
-* **Bachelor of Science: _Business Analytics._**
-* **Minor: _Data Science._**  
-* **Secondary Minor: _Political Science._**
-* **Certificate: _Computer Programing._**
-* **Cluster: _Chinese Language & Culture._**
-* **Extracurricular Activities: _Member of the Data Science & AI society_**
+* Bachelor of Science: _Business Analytics._
+* Minor: _Data Science._
+* Secondary Minor: _Political Science._
+* Certificate: _Computer Programing._
+* Cluster: _Chinese Language & Culture._
+* Extracurricular Activities: _Member of the Data Science & AI society_
 
 
 ## Relevant Experience 
@@ -56,7 +56,9 @@ Developed and maintained key cross-functional relationships with purchasing, ope
 Ensured compliance with SOX Controls, finance policies, and procedures, upholding stringent standards to maintain operational and financial 
 integrity. 
 
-
+</br>
+</br>
+</br>
 
 `Remote -- May 2024 to September 2024`
 
