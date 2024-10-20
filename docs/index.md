@@ -121,7 +121,6 @@ Managed to create and improve the class structure for 2 Levels of TESOL for inst
 Imparted "Beginner" & "Intermediate" levels Personalized English classes for groups of up to 20 students.
 
 <br>
-<br>
 
 ## Skills 
 
