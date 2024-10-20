@@ -12,7 +12,7 @@ title: Christian Lira's Resume
 <div id="webaddress">
 <a href="">christian.lira.gl@gmail.com </a>
 | <a href="">lir18001@byui.edu</a>
-| <a href="https://www.linkedin.com/in/christian-lira-6598341b9/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/christianlg/">LinkedIn</a>
 | <a href="https://github.com/ChristianLG2">GitHub</a>
 | <a href= "https://christianlg2.github.io/ChristianLG/">Personal Website</a>
 </div>
